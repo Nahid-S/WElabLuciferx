@@ -1,6 +1,13 @@
 # CRUD-Operation ( details page submission with crud)
 ## Output:
-![curd-Op](https)
+![curd-Op](https://github.com/Nahid-S/WElabLuciferx/blob/main/output/Screenshot%20(54).png)
+![curd-Op](https://github.com/Nahid-S/WElabLuciferx/blob/main/output/Screenshot%20(55).png)
+![curd-Op](https://github.com/Nahid-S/WElabLuciferx/blob/main/output/Screenshot%20(56).png)
+![curd-Op](https://github.com/Nahid-S/WElabLuciferx/blob/main/output/Screenshot%20(57).png)
+![curd-Op](https://github.com/Nahid-S/WElabLuciferx/blob/main/output/Screenshot%20(58).png)
+![curd-Op](https://github.com/Nahid-S/WElabLuciferx/blob/main/output/Screenshot%20(59).png)
+![curd-Op](https://github.com/Nahid-S/WElabLuciferx/blob/main/output/Screenshot%20(60).png)
+![curd-Op](https://github.com/Nahid-S/WElabLuciferx/blob/main/output/Screenshot%20(61).png)
 
 
 ## Code: 
